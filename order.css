@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+    font-style: oblique;
+    font-size: large;
+    
+}
+
+ul{
+    background-color: black;
+    border-radius: 10%;
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-right: 40%;
+    color: white;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width:5px;
+
+    list-style-type: none;
+    
+}
+
+li{
+    padding: 7%;
+    
+
+}
+
+
+.image
+{
+    border-width: 5;
+    border-style: solid;
+    border-color: white;
+    marker: none;
+}
+
+
+.input{
+    border-radius: 5%;
+}

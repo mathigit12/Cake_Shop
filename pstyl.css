@@ -1,0 +1,137 @@
+*{
+    cursor: pointer;
+}
+
+
+
+nav{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    border-radius: 30px;
+    padding: 30;
+    
+    
+    
+}
+
+ul{
+    display: inline;
+    padding-left: 900;
+    
+    margin-right: 30;
+    color:papayawhip;
+    
+}
+
+
+li:hover{
+    color:white ;
+
+    
+}
+
+h1{
+    margin-left: 30;
+    margin-bottom: 8;
+    display: inline;
+}
+
+li{
+    display: inline;
+}
+
+.search{
+    width: 700px;
+   margin: 150;
+   height: 50;
+   margin-top: 50;
+   margin-bottom: 50;
+   border-radius: 15%;
+   border-style: solid;
+   border-color: black;
+   border-width: 2;
+   cursor: text;
+   text-align: center;
+    
+}
+
+.chocolate{
+    height: 250;
+    
+    width: 300;
+    border-color: black;
+    border-style: solid;
+    border-width: 1;
+    
+}
+
+.pudding{
+
+
+      height: 250;
+    
+    width: 300;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+.blackforest{
+    height: 250;
+    
+    width: 300;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    
+    
+}
+
+
+img{
+    border-radius: 5%;
+    
+}
+
+
+h1{
+    display: block;
+}
+
+
+
+div{
+    background-color: black;
+    color: white;
+    margin: 5;
+    padding: 5;
+    border-radius: 70px;
+    cursor: text;
+    text-align: center;
+
+    
+}
+
+
+
+.pudding:hover{
+           
+            border-width: 5;
+            border-color: white;
+
+}
+
+.blackforest:hover{
+           
+            border-width: 5;
+            border-color: white;
+
+}
+
+.chocolate:hover{
+           
+            border-width: 5;
+            border-color: white;
+
+}
+
